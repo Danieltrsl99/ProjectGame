@@ -1,0 +1,7 @@
+I Done everything
+
+assets used from Challange 3 starter pack for player and props.
+Gun texture https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821
+zombie texture and animations https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/character-pack-zombie-sample-131604
+Gun sound https://pixabay.com/sound-effects/search/gun/
+Background music was from https://pixabay.com/sound-effects cant remeber full link 
